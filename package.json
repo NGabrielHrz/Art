@@ -1,0 +1,21 @@
+{
+  "name": "Art",
+  "displayName": "VanGongh",
+  "description": "Theme for VSCode inspired by Vincent van Gogh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VanGogh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VanGogh-color-theme.json"
+      }
+    ]
+  }
+}
