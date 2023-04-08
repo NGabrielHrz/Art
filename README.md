@@ -1,4 +1,4 @@
-# Art README
+# VincentvanGogh README
 
 ## Working with Markdown
 
